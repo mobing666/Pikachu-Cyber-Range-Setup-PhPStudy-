@@ -1,4 +1,4 @@
-# Pikachu Cyber Range Setup (PhPStudy)
+# Pikachu Cyber Range Setup (PhPStudy-Apache+MySQL)
 使用PhPStudy搭建Pikachu靶场环境
 
 PhPStudy下载地址: https://www.xp.cn
